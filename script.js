@@ -20,7 +20,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const loadingScreen = $("#loading-screen");
     const loadingPhase = $("#loading-phase");
     const welcomeCard = $("#welcome-card");
-    const enterAdventureBtn = $("#enter-adventure-btn");"#loading-screen");
+    const enterAdventureBtn = $("#enter-adventure-btn");
 
     const sceneIds = [
         "scene-intro",
